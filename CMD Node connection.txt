@@ -1,0 +1,16 @@
+cd nodestuff
+node server.js
+Serving on port 8500
+
+
+
+HTTP verb is "request method"
+
+in http request "?" followed by parameters is called the query string "?firstName=greg"
+
+
+query string parser
+
+
+npm install installs all the modules for Node
+(Node Package Manager)
